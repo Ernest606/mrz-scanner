@@ -1,4 +1,4 @@
-THIS PROJECT IS MODIFIED VERSION OF THIS GITHUB REPOSITORY: [https://github.com/roeften/pypassport](https://github.com/alsenet-labs/mrz-scanner)
+THIS PROJECT IS MODIFIED VERSION OF THIS GITHUB REPOSITORY: https://github.com/alsenet-labs/mrz-scanner
 
 # mrz-scanner
 
