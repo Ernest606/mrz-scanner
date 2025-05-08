@@ -1,3 +1,5 @@
+THIS PROJECT IS MODIFIED VERSION OF THIS GITHUB REPOSITORY: [https://github.com/roeften/pypassport](https://github.com/alsenet-labs/mrz-scanner)
+
 # mrz-scanner
 
 Detect, ocrize and parse (client or server side, or from command line) the Machine Readable Zone of passports and other documents
